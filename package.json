@@ -1,5 +1,5 @@
 {
-  "name": "swipe-angular-list",
+  "name": "swipe-angular-list-seatback",
   "version": "1.0.2",
   "peerDependencies": {
     "@angular/common": "^8.2.0",
